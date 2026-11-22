@@ -1,0 +1,11 @@
+{
+  "n_states": 3,
+  "threshold": -0.26924424722091045,
+  "precision": 0.543,
+  "recall": 1.0,
+  "f1": 0.704,
+  "events_detected": "3/3",
+  "false_alarm_windows": 0,
+  "windows_scored": 593,
+  "windows_flagged": 60
+}
